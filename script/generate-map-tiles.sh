@@ -1,0 +1,1 @@
+gdal2tiles.py --xyz --profile=raster --processes=16 --zoom=0-6 /mnt/map-fullsize/$3.TGA /mnt/map-tiles/$3
