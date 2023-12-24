@@ -58,17 +58,6 @@ python -m tiles.py
 
 ---
 
-## Known Issues
-
-- Missing Minimap TGAs:
-  - Harju
-  - Blackcoast
-  - Blackcoast Seed
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
-
 ## Attributions
 
 - _This project borrows tiling logic originally found from [SquadLanes](https://github.com/w4rum/SquadLanes) repository._
